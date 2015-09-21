@@ -99,7 +99,7 @@ while true do
       localwrite(streamid, justify_streamer, line_streamer)
       localwrite("Live Viewers: Offline", justify_viewers, line_viewers)
     else
-      m.setBackgroundColor(colors.yellow)
+      m.setBackgroundColor(colors.black)
       m.clear()
       localwrite(streamid, justify_streamer, line_streamer)
       localwrite("Live Viewers: " .. live, justify_viewers, line_viewers)
