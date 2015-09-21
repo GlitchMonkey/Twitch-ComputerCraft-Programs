@@ -12,7 +12,7 @@
 -- pastebin get WdiT6sR5 bootstrap
 -- bootstrap
 -- DO NOT USE THIS LINE ORIGINAL -- github get coolacid/ComputerCraft/master/twitchdisplay.lua startup
--- github get GlitchMonkey/Twitch-ComputerCraft-Programs/master/GlitchMonkey.lua startup
+-- github get GlitchMonkey/Twitch-ComputerCraft-Programs/master/TwitchFollowerComputerCraft.lua startup
 -- startup
 
 -- Twitch Name of the Streamer
